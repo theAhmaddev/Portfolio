@@ -19,8 +19,8 @@ const Navbar = () => {
           <li><a href="#contact" className="hover:text-blue-600">Contact</a></li>
           <li>
             <a
-              href="/cv/Muzamil_Hussain.pdf" // Put CV inside public/cv/
-              download="Muzamil Hussain.pdf"
+              href="/cv/Muhammad Ahmad.pdf" // Put CV inside public/cv/
+              download="Muhammad Ahmad.pdf"
               className="px-4 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-700 transition"
             >
               Download Resume
@@ -64,8 +64,8 @@ const Navbar = () => {
           {/* Mobile Download CV Button */}
           <li className="w-full flex mx-auto">
             <a
-              href="/cv/Muzamil_Hussain.pdf"
-              download="Muzamil Hussain.pdf"
+              href="/cv/Muhammad Ahmad.pdf"
+              download="Muhammad Ahmad.pdf"
               onClick={() => setIsOpen(false)}
               className="w-full px-6 text-center text-blue-600 py-3 border border-blue-500 hover:text-white rounded-lg shadow hover:bg-blue-700 transition"
             >

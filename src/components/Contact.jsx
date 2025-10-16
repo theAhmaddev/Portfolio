@@ -29,13 +29,13 @@ const Contact = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2 text-gray-700">
               <Mail className="w-5 h-5 text-blue-600" />
-              <a href="mailto:muzamilhussain369@gmail.com" className="text-blue-600 hover:underline">
+              <a href="mailto:mahmad2631296@gmail.com" className="text-blue-600 hover:underline">
                 mahmad2631296@gmail.com
               </a>
             </div>
             <div className="flex items-center space-x-2 text-gray-700">
               <Phone className="w-5 h-5 text-blue-600" />
-              <a href="tel:+923030458064">0310-6270443</a>
+              <a href="tel:+92310-6270443">0310-6270443</a>
             </div>
           </div>
 
@@ -60,7 +60,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://stackoverflow.com/users/30405022/muzamil-hussain"
+              href="#"
               target="_blank"
               rel="noopener noreferrer"
               className=""
