@@ -20,16 +20,16 @@ const Footer = () => {
           </p>
 
           <div className="flex gap-4 mt-4 justify-center md:justify-start">
-            <a href="https://tiktok.com/@muzamilcreates" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
+            <a href="https://tiktok.com/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
               <FaTiktok className="w-6 h-6" />
             </a>
-            <a href="https://twitter.com/muzamilhussain" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
+            <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
               <Twitter className="w-6 h-6" />
             </a>
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
               <FaFacebookF className="w-6 h-6" />
             </a>
-            <a href="https://www.instagram.com/muzamilcreates?igsh=bWc4eWltc3E5aXpi" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
+            <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-blue-300">
               <Instagram className="w-6 h-6" />
             </a>
           </div>

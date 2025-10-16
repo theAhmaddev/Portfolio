@@ -6,7 +6,7 @@ const projects = [
         date: "Apirl/2025-----June/2025",
         // tech: "React.js, Tailwind CSS, EmailJS",
         live: "#",
-        image: "#",
+        image: "/images/Lottery.png",
         link: "#",
     },
     {
@@ -16,7 +16,7 @@ const projects = [
         date: "May/2025-----June/2025",
         // tech: "React.js, Tailwind CSS, EmailJS",
         live: "#",
-        image: "",
+        image: "/images/BMI.png",
         link: "#",
     },
     {
@@ -25,7 +25,7 @@ const projects = [
         live: "#",
         desc: "Generate Usefull Quotes",
         date: "May/2025-----Continue",
-        image: "",
+        image: "/images/Quote.png",
         link: "#",
     }
 ];
