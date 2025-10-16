@@ -46,7 +46,7 @@ const Footer = () => {
 
         {/* Right Section - Latest Projects */}
         <div className="flex flex-col items-start text-center md:text-left">
-          <h3 className="text-xl font-semibold mb-4 text-white">Latest Projects</h3>
+          <h3 className="text-xl font-semibold mb-4 text-white">Latest Projects :</h3>
           <div className="space-y-4 w-full">
             {latestProjects.slice().reverse().map((project, i) => (
               <div key={i} className="flex flex-row gap-3 items-center text-start sm:items-start">
